@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"EJS",
+		"Emmet",
+		"GoSublime",
+		"JSX",
+		"Package Control",
+		"ReactJS",
+		"Stylus",
+		"SublimeLinter",
+		"Theme - Cyanide",
+		"Theme - Spacegray",
+		"TodoReview",
+		"TOML",
+		"Whitespace"
+	]
+}

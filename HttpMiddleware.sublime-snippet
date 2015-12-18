@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+func ${1:Middleware}(h http.Handler) http.Handler {
+
+}
+]]></content>
+	<tabTrigger>middleware</tabTrigger>
+	<scope>source.go</scope>
+</snippet>

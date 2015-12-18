@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+func $1(c web.C, w http.ResponseWriter, r *http.Request) {
+	$2
+}
+]]></content>
+	<tabTrigger>gjh</tabTrigger>
+	<scope>source.go</scope>
+</snippet>
