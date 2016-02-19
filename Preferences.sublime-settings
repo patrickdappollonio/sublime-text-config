@@ -41,5 +41,5 @@
 	"show_line_endings": true,
 	"tabs_medium": true,
 	"theme": "Cyanide.sublime-theme",
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
 }

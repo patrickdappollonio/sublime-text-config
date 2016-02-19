@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+if err != nil {
+	return $1
+}
+
+]]></content>
+	<tabTrigger>returnerr</tabTrigger>
+	<scope>source.go</scope>
+</snippet>
