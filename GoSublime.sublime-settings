@@ -1,4 +1,4 @@
 {
-	"fmt_cmd": ["goimports"],
+	"fmt_cmd": ["goreturns"],
 	"gohtml_extensions": [".tmpl"]
 }

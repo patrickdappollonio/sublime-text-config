@@ -4,7 +4,7 @@
 	"caret_style": "phase",
 	"centurion_folder_icons": true,
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Theme - Cyanide/Monocyanide.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"contrasted_quick_panel": true,
 	"contrasted_sidebar": true,
 	"contrasted_tabs": true,
@@ -21,10 +21,11 @@
 		".svn",
 		".git",
 		".hg",
-		"CVS"
+		"CVS",
+		".idea"
 	],
 	"font_face": "Inconsolata",
-	"font_size": 14,
+	"font_size": 11,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"icon_file_type_enable": true,
