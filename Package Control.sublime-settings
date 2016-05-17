@@ -7,7 +7,8 @@
 	[
 		"BracketHighlighter",
 		"EJS",
-		"Emmet",
+		"GitGutter",
+		"GoRename",
 		"GoSublime",
 		"Handlebars",
 		"INI",
@@ -15,6 +16,7 @@
 		"Package Control",
 		"ReactJS",
 		"Stylus",
+		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"Theme - Cyanide",
