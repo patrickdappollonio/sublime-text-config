@@ -1,4 +1,12 @@
 {
 	"fmt_cmd": ["goimports"],
-	"gohtml_extensions": [".tmpl"]
+	"gohtml_extensions": [".tmpl"],
+
+	// The maximum amount of memory(MiB) that MarGo is allowed to use
+	"margo_oom": 3000,
+
+	// ipc_timeout sets the maximum amount of time time in seconds to wait for a blocking ipc call to MarGo.
+	// Due to limitations in Sublime Text, fmt cannot be done without freezing Sublime Text.
+	// If you use the `fmt_cmd` setting above with a command that is slow like `goimports` you should increase this value.
+	"ipc_timeout": 5
 }
