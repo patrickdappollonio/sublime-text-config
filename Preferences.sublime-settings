@@ -1,8 +1,8 @@
 {
+	"afterglow_folder_icons": true,
 	"auto_complete_delay": 20,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"centurion_folder_icons": true,
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"contrasted_quick_panel": true,
@@ -24,8 +24,9 @@
 		"CVS",
 		".idea"
 	],
-	"font_face": "Inconsolata",
+	"font_face": "Monaco",
 	"font_size": 11,
+	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"icon_file_type_enable": true,
@@ -44,5 +45,6 @@
 	"show_line_endings": true,
 	"tabs_medium": true,
 	"theme": "Cyanide.sublime-theme",
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
 }

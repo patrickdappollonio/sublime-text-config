@@ -5,17 +5,20 @@
 	],
 	"installed_packages":
 	[
+		"Base16 Color Schemes",
 		"BracketHighlighter",
 		"EJS",
 		"GitGutter",
 		"GoRename",
 		"GoSublime",
 		"Handlebars",
+		"Indent XML",
 		"INI",
 		"JSX",
 		"Package Control",
 		"ReactJS",
 		"Stylus",
+		"Sublime Bookmarks",
 		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
@@ -23,6 +26,7 @@
 		"Theme - Spacegray",
 		"TodoReview",
 		"TOML",
+		"Trimmer",
 		"Whitespace"
 	]
 }
