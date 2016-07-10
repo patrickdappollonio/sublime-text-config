@@ -1,5 +1,6 @@
 {
 	"fmt_cmd": ["goimports"],
 	"gohtml_extensions": [".tmpl"],
-	"ipc_timeout": 10
+	"ipc_timeout": 10,
+	"margo_oom": 3000
 }
