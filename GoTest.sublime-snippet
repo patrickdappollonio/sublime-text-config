@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+func Test$1 (t *testing.T) {
+	$2
+}
+
+]]></content>
+	<tabTrigger>gotest</tabTrigger>
+	<scope>source.go</scope>
+</snippet>
