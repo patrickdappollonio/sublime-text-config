@@ -4,7 +4,7 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Humble (SL).tmTheme",
 	"contrasted_quick_panel": true,
 	"contrasted_sidebar": true,
 	"contrasted_tabs": true,
@@ -24,6 +24,7 @@
 		".git"
 	],
 	"font_face": "Inconsolata",
+	"font_options": "subpixel_antialias",
 	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -43,7 +44,7 @@
 	"show_encoding": true,
 	"show_line_endings": true,
 	"tabs_medium": true,
-	"theme": "Cyanide.sublime-theme",
+	"theme": "Material-Theme.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }
