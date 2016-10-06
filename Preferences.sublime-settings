@@ -1,55 +1,60 @@
 {
-  "afterglow_folder_icons": true,
-  "auto_complete_delay": 20,
-  "bold_folder_labels": true,
-  "caret_style": "phase",
-  "close_windows_when_empty": true,
-  "color_scheme": "Packages/ayu/ayu.tmTheme",
-  "contrasted_quick_panel": true,
-  "contrasted_sidebar": true,
-  "contrasted_tabs": true,
-  "file_exclude_patterns": [
-    "*.codekit",
-    "gin-bin",
-    ".DS_Store"
-  ],
-  "folder_exclude_patterns": [
-    ".codekit-cache",
-    ".svn",
-    ".hg",
-    "CVS",
-    ".idea",
-    ".git"
-  ],
-  "font_face": "Source Code Pro",
-  "font_options": [
-    "gray_antialias",
-    "subpixel_antialias"
-  ],
-  "font_size": 13,
-  "highlight_line": true,
-  "highlight_modified_tabs": true,
-  "hot_exit": false,
-  "icon_file_type_enable": true,
-  "ignored_packages": [
-    "Vintage"
-  ],
-  "indent_guide_options": [
-    "draw_normal",
-    "draw_active"
-  ],
-  "line_padding_bottom": 2,
-  "line_padding_top": 2,
-  "open_files_in_new_window": false,
-  "piatto_folder_icons": true,
-  "preview_on_click": false,
-  "scroll_past_end": true,
-  "shift_tab_unindent": true,
-  "show_encoding": true,
-  "show_line_endings": true,
-  "theme": "ayu.sublime-theme",
-  "trim_trailing_white_space_on_save": true,
-  "ui_font_size_small": false,
-  "ui_separator": false,
-  "word_wrap": true
+	"afterglow_folder_icons": true,
+	"auto_complete_delay": 20,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/ayu/ayu.tmTheme",
+	"contrasted_quick_panel": true,
+	"contrasted_sidebar": true,
+	"contrasted_tabs": true,
+	"file_exclude_patterns":
+	[
+		"*.codekit",
+		"gin-bin",
+		".DS_Store"
+	],
+	"folder_exclude_patterns":
+	[
+		".codekit-cache",
+		".svn",
+		".hg",
+		"CVS",
+		".idea",
+		".git"
+	],
+	"font_face": "Source Code Pro",
+	"font_options":
+	[
+		"gray_antialias",
+		"subpixel_antialias"
+	],
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"icon_file_type_enable": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"open_files_in_new_window": false,
+	"piatto_folder_icons": true,
+	"preview_on_click": false,
+	"scroll_past_end": true,
+	"shift_tab_unindent": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "ayu.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"ui_font_size_small": false,
+	"ui_separator": false,
+	"word_wrap": true
 }
