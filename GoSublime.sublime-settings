@@ -11,5 +11,13 @@
 	"ipc_timeout": 10,
 
 	// whether or not builtin types and functions should be shown in the auto-completion list
-	"autocomplete_builtins": true
+	"autocomplete_builtins": true,
+
+	// whether or not builtin types and functions should be shown in the auto-completion list
+	"autocomplete_builtins": true,
+
+	// whether or not autocomplete should suggest possible imports when autocomplete fails to
+	// find a match.
+	// note: this feature only comes into effect when autocomplete was triggered after a dot, e.g. `fmt.|`
+	"autocomplete_suggest_imports": false
 }
