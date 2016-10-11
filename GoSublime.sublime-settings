@@ -1,5 +1,5 @@
 {
-	"fmt_cmd": ["goreturns"],
+	"fmt_cmd": ["goimports"],
 	"gohtml_extensions": [".tmpl"],
 
 	// The maximum amount of memory(MiB) that MarGo is allowed to use
