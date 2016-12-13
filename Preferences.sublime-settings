@@ -4,6 +4,7 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"close_windows_when_empty": true,
+	"color_scheme": "Packages/Colorsublime - Themes/Afterglow.tmTheme",
 	"contrasted_quick_panel": true,
 	"contrasted_sidebar": true,
 	"contrasted_tabs": true,
@@ -50,10 +51,9 @@
 	"shift_tab_unindent": true,
 	"show_encoding": true,
 	"show_line_endings": true,
+	"theme": "Boxy Tomorrow.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"ui_font_size_small": false,
 	"ui_separator": false,
-	"word_wrap": true,
-	 "color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
-    "theme": "Boxy Tomorrow.sublime-theme"
+	"word_wrap": true
 }
