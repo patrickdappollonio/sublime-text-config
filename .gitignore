@@ -10,3 +10,4 @@ GoSublime/
 SublimeLinter
 *.cache
 GoSublime-aux.sublime-settings
+oscrypto-ca-bundle.crt

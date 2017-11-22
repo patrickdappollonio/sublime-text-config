@@ -4,7 +4,8 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Colorsublime - Themes/Afterglow.tmTheme",
+	"theme": "Afterglow.sublime-theme",
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
 	"contrasted_quick_panel": true,
 	"contrasted_sidebar": true,
 	"contrasted_tabs": true,
@@ -23,12 +24,12 @@
 		".idea",
 		".git"
 	],
-	"font_face": "Source Code Pro for Powerline",
+	"font_face": "DroidSansMonoForPowerlineNerdFontC-",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 13,
+	"font_size": 15,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
