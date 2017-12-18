@@ -4,7 +4,6 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"close_windows_when_empty": true,
-	"theme": "Afterglow.sublime-theme",
 	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
 	"contrasted_quick_panel": true,
 	"contrasted_sidebar": true,
@@ -22,7 +21,7 @@
 		".hg",
 		"CVS",
 		".idea",
-		".git"
+		".git",
 	],
 	"font_face": "DroidSansMonoForPowerlineNerdFontC-",
 	"font_options":
@@ -52,9 +51,12 @@
 	"shift_tab_unindent": true,
 	"show_encoding": true,
 	"show_line_endings": true,
+	"sidebar_row_padding_large": true,
+	"sidebar_size_14": true,
 	"theme": "Boxy Tomorrow.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"ui_font_size_small": false,
 	"ui_separator": false,
-	"word_wrap": true
+	"word_wrap": true,
+	"binary_file_patterns": [".svn/", ".git/", "node_modules/", "bower_components/"]
 }

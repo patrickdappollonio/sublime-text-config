@@ -5,11 +5,13 @@
 	],
 	"installed_packages":
 	[
+		"Auto Close HTML Tags",
 		"Boxy Theme",
 		"BracketHighlighter",
 		"Colorsublime",
 		"Dockerfile Syntax Highlighting",
 		"EJS",
+		"Emmet",
 		"Gist",
 		"Git",
 		"GitGutter",
@@ -17,11 +19,15 @@
 		"Handlebars",
 		"Indent XML",
 		"INI",
+		"JavaScriptNext - ES6 Syntax",
 		"JSX",
 		"Package Control",
 		"Pretty JSON",
 		"Pretty YAML",
+		"React IDE",
 		"ReactJS",
+		"Sass",
+		"Simple JSX",
 		"Stylus",
 		"SublimeGit",
 		"SublimeLinter",
@@ -30,6 +36,8 @@
 		"TodoReview",
 		"TOML",
 		"Trimmer",
+		"VueFormatter",
+		"Vuejs Complete Package",
 		"Whitespace"
 	]
 }
